@@ -1,0 +1,5 @@
+@import url('../public/fonts/Vazirmatn-UI-FD-font-face.css');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
